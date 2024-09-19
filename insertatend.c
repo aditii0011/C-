@@ -13,7 +13,7 @@ void main()
     printf("Enter first data:");
     ptr = (struct node *)malloc(sizeof(struct node));
     scanf("%d", &ptr->data);
-    first = ptr
+    first = ptr;
 
     do
     {
